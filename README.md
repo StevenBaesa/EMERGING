@@ -6,4 +6,6 @@ Group project for midterm exam
 commands:npm start
 
 ### NEEDS TO INSTALL
+npx create-react-app frontend
+npm i nodemon cors mysql express
 
